@@ -1,4 +1,4 @@
-#EmailJS Exploration
+# EmailJS Exploration
 
 This repo was designed to gain familiarity with EmailJS.
 
