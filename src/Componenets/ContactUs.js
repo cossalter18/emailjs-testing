@@ -27,12 +27,13 @@ class ContactForm extends Component {
         }
 
         emailjs.send(
+            //email provider
             'gmail',
             //template from EmailJS Dashboard
-            'template_4F2mCWRQ',
+            'template_XXXXXXXXX',
             templateParams,
             //User id from EmailJS
-            'user_XtFLHH26lQhnybJclH1sw'
+            'user_XXXXXXXXXX'
         )
 
         this.resetForm()
